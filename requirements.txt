@@ -17,7 +17,7 @@ django-import-export==2.1.0
 entrypoints==0.3
 et-xmlfile==1.0.1
 Flask==1.1.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gem==0.1.12
 gTTS==2.1.1
 gTTS-token==1.1.3
